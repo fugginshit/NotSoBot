@@ -29,7 +29,7 @@ lxml==3.7.1
 MarkupSafe==0.23
 matplotlib==1.5.3
 more-itertools==2.4.1
-multidict==2.1.4
+multidict
 nltk==3.2.1
 numpy==1.11.3
 Pillow==3.4.2
