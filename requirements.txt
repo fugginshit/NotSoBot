@@ -22,7 +22,7 @@ inflect==0.2.5
 itsdangerous==0.24
 jaraco.itertools==2.0
 Jinja2==2.8
-jpglitch==0.2
+git+git://github.com/Kareeeeem/jpglitch.git
 jsondatabase==0.1.6
 jsonpickle==0.9.3
 lxml==3.7.1
@@ -48,7 +48,7 @@ requests==2.12.4
 requests-oauthlib==0.7.0
 six==1.10.0
 SQLAlchemy==1.1.5.dev0
-steamapi==0.1
+git+git://github.com/smiley/steamapi.git
 tabulate==0.7.7
 textblob==0.11.1
 texttable==0.8.7
