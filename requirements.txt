@@ -60,5 +60,5 @@ Wand==0.4.4
 websockets==3.2
 Werkzeug==0.11.11
 wolframalpha==3.0
-wordcloud==1.2.1
+wordcloud
 xmltodict==0.10.2
