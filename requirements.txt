@@ -43,7 +43,7 @@ python-aalib==0.3.2
 python-dateutil==2.6.0
 python-magic==0.4.12
 python-twitter==3.2
-pytz==2016.10
+pytz==2013b
 requests==2.12.4
 requests-oauthlib==0.7.0
 six==1.10.0
